@@ -14,3 +14,7 @@
 
 # 4. UI (User Interface)
 <img width="1920" height="1200" alt="Screenshot 2025-11-13 142157" src="https://github.com/user-attachments/assets/2dc3de8d-348a-48d5-bb42-ff89e9b92b5b" />
+
+# 5.UX (user experience)
+<img width="1920" height="1200" alt="Screenshot 2025-11-13 153408" src="https://github.com/user-attachments/assets/714dbb60-bef6-414b-b931-eaf3166a094f" />
+
